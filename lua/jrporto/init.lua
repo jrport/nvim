@@ -5,4 +5,4 @@ require 'jrporto.plugins'
 require 'jrporto.utils'
 require 'jrporto.lsp'
 
-vim.cmd("colorscheme ashen")
+vim.cmd("colorscheme cyberdream")
